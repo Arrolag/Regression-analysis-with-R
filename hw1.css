@@ -1,0 +1,24 @@
+body {
+	margin: 90px 40px  40px 40px;
+	padding: 3px;
+	font-family: Times, sans-serif;
+	font-size: 200%;
+}
+
+header {
+	background-color: #DFE2DB;
+	padding: 40px;
+}
+
+
+h1{
+	color: #191919;
+	text-transform:uppercase;
+	font-weight: bold;
+}
+
+h2, h3{
+	color: #191919;
+	font-weight: bold;
+}
+
